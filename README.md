@@ -1,4 +1,4 @@
-- 👋 Hi you number , I’m @KatlenVanessa
+- 👋 Hey, I’m @KatlenVanessa
 - 👀 I’m interested in Front End and Security
 - 🌱 I’m currently learning HTML/CSS/JS
 - 📫 How to reach me on Instagram -->>@katlnvanessa
