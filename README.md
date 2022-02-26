@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/KatlenVanessa/KatlenVanessa/master/200w.gif" width="60px" > 
+<img src="https://raw.githubusercontent.com/KatlenVanessa/KatlenVanessa/master/200w.gif" align=right width="60px" > 
 
 - Hey, I’m @KatlenVanessa 
 - 👀 I’m interested in Front End and Security
