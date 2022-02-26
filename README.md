@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning HTML/CSS/JS
 - 📫 How to reach me on Instagram -->>@katlnvanessa
 
-<img width="515px" src="https://github-readme-stats.vercel.app/api?username=KatlenVanessa&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=dark" /> <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatlenVanessa&theme=dark" /> 
+<img width="415px" src="https://github-readme-stats.vercel.app/api?username=KatlenVanessa&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=dark" /> <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatlenVanessa&theme=dark" /> 
