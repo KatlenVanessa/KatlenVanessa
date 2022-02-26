@@ -1,4 +1,4 @@
-- Hey, I’m @KatlenVanessa <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+- Hey, I’m @KatlenVanessa <img src="https://raw.githubusercontent.com/KatlenVanessa/KatlenVanessa/master/vulcan_salute_spock.gif" width="60px">
 - 👀 I’m interested in Front End and Security
 - 🌱 I’m currently learning HTML/CSS/JS
 - 📫 How to reach me on Instagram -->>@katlnvanessa
