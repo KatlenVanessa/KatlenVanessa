@@ -1,6 +1,7 @@
-- 👋 Hey, I’m @KatlenVanessa
+- Hey, I’m @KatlenVanessa <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 - 👀 I’m interested in Front End and Security
 - 🌱 I’m currently learning HTML/CSS/JS
 - 📫 How to reach me on Instagram -->>@katlnvanessa
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KatlenVanessa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
