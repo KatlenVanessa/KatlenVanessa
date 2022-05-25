@@ -6,5 +6,5 @@ Its 5-year mission: To explore strange new worlds, To seek out new life and new 
 <h4>-🔔 How to reach me: 
 <a href="mailto:katlenvanessa15@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/KatlenVanessa/KatlenVanessa/master/5968534.png" height="25" /></a></h4>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
