@@ -15,10 +15,9 @@
 - :telescope: I’m interested in Security and Front End
 
 - :mailbox:How to reach me: <br>
-<a href="https://www.instagram.com/ktlnvanessa/">
+- <a href="https://www.instagram.com/ktlnvanessa/">
 <img src="https://img.shields.io/badge/Instagram-dark?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 
-  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
