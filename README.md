@@ -8,13 +8,13 @@
     <img src="https://komarev.com/ghpvc/?username=KatlenVanessa&style=flat-square&color=green" alt=""/>
 </div>
 
-### :woman_technologist: About Me :
+## :woman_technologist: About Me :
 
 - :book: A Computer Science student
   
 - :telescope: I’m interested in Security and Front End
 
-- :mailbox:How to reach me: <br>
+- :mailbox:How to reach me: <br><br>
   <a href="https://www.instagram.com/ktlnvanessa/"> <img src="https://img.shields.io/badge/Instagram-dark?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 
 ---
@@ -33,6 +33,6 @@
 ### :fire: My Stats :
 <div align="center">
 <a href="https://github.com/KatlenVanessa">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatlenVanessa&layout=compact&theme=midnight-purple"/>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=KatlenVanessa&theme=hacker&date_format=%5BY.%5Dn.j"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatlenVanessa&layout=compact&theme=midnight-purple" width="500"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=KatlenVanessa&theme=hacker&date_format=%5BY.%5Dn.j" width="500" />
 </div>
