@@ -15,7 +15,7 @@
 - :telescope: I’m interested in Security and Front End
 
 - :mailbox:How to reach me: <br>
-- <a href="https://www.instagram.com/ktlnvanessa/"> <img src="https://img.shields.io/badge/Instagram-dark?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+  <a href="https://www.instagram.com/ktlnvanessa/"> <img src="https://img.shields.io/badge/Instagram-dark?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 
 ---
 
@@ -26,7 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" **alt="c" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="c" width="40" height="40"/>&nbsp;
 </div>
   
 ---
