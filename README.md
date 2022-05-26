@@ -34,5 +34,5 @@
 <div align="center">
 <a href="https://github.com/KatlenVanessa">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatlenVanessa&layout=compact&theme=midnight-purple" width="500"/>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=KatlenVanessa&theme=hacker&date_format=%5BY.%5Dn.j" width="500" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=KatlenVanessa&theme=hacker&date_format=%5BY.%5Dn.j" width="450" />
 </div>
