@@ -17,7 +17,7 @@
 - :mailbox:How to reach me: <br><br>
   <a href="https://www.instagram.com/ktlnvanessa/"> <img src="https://img.shields.io/badge/Instagram-dark?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 
----
+--
 
 ### :hammer_and_wrench: Languages and Tools :
   
@@ -29,7 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="c" width="40" height="40"/>&nbsp;
 </div>
   
----
+--
 ### :fire: My Stats :
 <div align="center">
 <a href="https://github.com/KatlenVanessa">
