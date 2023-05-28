@@ -12,7 +12,7 @@
 
 - :book: A Computer Science student
   
-- :telescope: I’m interested in Security and Front End
+- :telescope: I’m interested in AI | Back End | Security
 
 - :mailbox:How to reach me: <br><br>
   <a href="mailto:katlenvanessa15@gmail.com?subject=Contato%20pelo%20GitHub"> <img src="https://img.shields.io/badge/Gmail-dark?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram Badge"/></a>
