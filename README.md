@@ -1,11 +1,10 @@
 
-<div align=center>
-<img src="https://raw.githubusercontent.com/KatlenVanessa/KatlenVanessa/master/200w.gif" align="right" width="100" > 
+<div id="badges" align="right">
+    <p>~Live Longer and Prosper~</p>
 </div>
 
-
-<div id="badges" align="center">
-    <img src="https://komarev.com/ghpvc/?username=KatlenVanessa&style=flat-square&color=green" alt=""/>
+<div align=center>
+<img src="https://raw.githubusercontent.com/KatlenVanessa/KatlenVanessa/master/200w.gif" align="right" width="100" > 
 </div>
 
 ## :woman_technologist: About Me :
