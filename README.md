@@ -1,11 +1,9 @@
 
-<div id="badges" align="right">
+<div id="badges">
     <p>~Live Longer and Prosper~</p>
 </div>
 
-<div align=center>
-<img src="https://raw.githubusercontent.com/KatlenVanessa/KatlenVanessa/master/200w.gif" align="right" width="100" > 
-</div>
+<img src="https://raw.githubusercontent.com/KatlenVanessa/KatlenVanessa/master/200w.gif" width="100" > 
 
 ## :woman_technologist: About Me :
 
