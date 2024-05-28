@@ -1,11 +1,11 @@
 
-<div id="badges">
+<div id="badges" >
     <p>~Live Longer and Prosper~</p>
 </div>
 
-<img src="https://raw.githubusercontent.com/KatlenVanessa/KatlenVanessa/master/200w.gif" width="100" > 
+<img src="https://raw.githubusercontent.com/KatlenVanessa/KatlenVanessa/master/200w.gif" width="50" > 
 
-## :woman_technologist: About Me :
+### :woman_technologist: About Me :
 
 - :book: A CS student interested in AI | Back End | Security
 
