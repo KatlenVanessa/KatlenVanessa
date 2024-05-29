@@ -1,9 +1,10 @@
 
-<div id="badges" >
+<div id="badges" align=right>
     <p>~Live Longer and Prosper~</p>
+    <img src="/Sir. Spock salute.png" width="80" > 
 </div>
 
-<img src="/Sir. Spock salute.png" width="70" > 
+
 
 ### :woman_technologist: About Me :
 
