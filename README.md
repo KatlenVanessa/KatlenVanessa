@@ -3,7 +3,7 @@
     <p>~Live Longer and Prosper~</p>
 </div>
 
-<img src="https://raw.githubusercontent.com/KatlenVanessa/KatlenVanessa/master/200w.gif" width="50" > 
+<img src="/Sir. Spock salute.png" width="70" > 
 
 ### :woman_technologist: About Me :
 
