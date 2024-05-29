@@ -1,11 +1,13 @@
+<div> 
 
-<div id="badges" align=right>
+
+<div>
     <p>~Live Longer and Prosper~</p>
     <img src="/Sir. Spock salute.png" width="80" > 
 </div>
 
-
-
+<div>
+    
 ### :woman_technologist: About Me :
 
 - :book: A CS student interested in AI | Back End | Security
@@ -14,6 +16,10 @@
   <a href="mailto:katlenvanessa15@gmail.com?subject=Contato%20pelo%20GitHub"> <img src="https://img.shields.io/badge/Gmail-dark?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram Badge"/></a>
 
 ---
+</div>
+
+
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
   
