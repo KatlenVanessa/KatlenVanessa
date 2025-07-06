@@ -24,7 +24,7 @@
 ### :hammer_and_wrench: Languages and Tools :
   
 <div align=center><br>
-    <img align="center" alt="Python" height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="Chuck" height="30" width="35" src="https://chuck.stanford.edu/doc/images/chuck-logo2023w.png" />
 </div>
